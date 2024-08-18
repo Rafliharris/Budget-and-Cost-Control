@@ -62,7 +62,7 @@ Teknologi berubah lebih cepat daripada kemampuan manusia beradaptasi terhadapnya
   
      ---
      ---
-# 2A. Cost Control For Construction Projects
+# 1B. Cost Control For Construction Projects
 
 Pengendalian Biaya untuk Proyek Konstruksi Tom Stephenson membahas lingkungan tempat kita melaksanakan proyek dalam membahas VUCA sebagai alat perencanaan strategis dan bagaimana kita perlu memperhitungkan risiko dalam perencanaan pengendalian biaya untuk proyek konstruksi. Ditinjau peta pemikiran dari proses yang terlibat dalam proyek konstruksi dan kaitannya dengan perencanaan pengendalian biaya.
      
